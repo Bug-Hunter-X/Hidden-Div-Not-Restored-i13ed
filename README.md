@@ -1,0 +1,1 @@
+This repository demonstrates a subtle HTML/JavaScript bug where a div element is hidden using JavaScript's `style.display = "none"`, but it's never made visible again, causing unexpected behavior.  The solution involves adding logic to restore the visibility of the div under specific circumstances.
